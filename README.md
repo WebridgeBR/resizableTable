@@ -1,0 +1,2 @@
+# resizableTable
+mat-table resizable
